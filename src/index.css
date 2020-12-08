@@ -38,3 +38,24 @@ width: 250px;
 height: 300px;
 margin: auto;
 }
+
+#login{
+  align-items: center;
+  margin: auto;
+  /* width: 50%; */
+  /* border: 3px solid green; */
+  /* padding: 10px; */
+}
+#password{
+  width: 1000px;
+}
+
+ul {
+  display: block;
+  list-style-type: disc;
+  margin-top: 1em;
+  margin-bottom: 1 em;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 40px;
+}
